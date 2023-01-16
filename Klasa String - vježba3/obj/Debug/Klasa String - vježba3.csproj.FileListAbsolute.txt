@@ -1,0 +1,8 @@
+C:\Users\heist\Documents\Code\Klasa String - vježba3\bin\Debug\Klasa String - vježba3.exe.config
+C:\Users\heist\Documents\Code\Klasa String - vježba3\bin\Debug\Klasa String - vježba3.exe
+C:\Users\heist\Documents\Code\Klasa String - vježba3\bin\Debug\Klasa String - vježba3.pdb
+C:\Users\heist\Documents\Code\Klasa String - vježba3\obj\Debug\Klasa String - vježba3.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\Klasa String - vježba3\obj\Debug\Klasa String - vježba3.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\Klasa String - vježba3\obj\Debug\Klasa String - vježba3.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\Klasa String - vježba3\obj\Debug\Klasa String - vježba3.exe
+C:\Users\heist\Documents\Code\Klasa String - vježba3\obj\Debug\Klasa String - vježba3.pdb
